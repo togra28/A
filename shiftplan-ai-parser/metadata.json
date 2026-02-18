@@ -1,0 +1,5 @@
+{
+  "name": "ShiftPlan AI Parser",
+  "description": "A professional tool for extracting employee unavailability and shift preferences from email texts using Gemini AI, designed to automate schedule planning workflows.",
+  "requestFramePermissions": []
+}
